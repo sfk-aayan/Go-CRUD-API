@@ -21,3 +21,8 @@ go get -u github.com/gin-gonic/gin
 go get github.com/joho/godotenv
 ```
 
+## Running the Project
+1) Clone the repo.
+2) Install the needed dependencies from the Installation section.
+3) Give the credentials of your MySQL database in the .env file under `DB_URL`.
+4) Run main.go and enjoy!
