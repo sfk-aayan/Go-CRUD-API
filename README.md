@@ -1,4 +1,13 @@
 # Go-CRUD-API
-##Dependencies
+
+## Dependencies
 - GORM
 - Go Gin
+
+### Installation
+```go
+sdsadsd
+
+```
+
+
