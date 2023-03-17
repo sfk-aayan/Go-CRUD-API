@@ -4,6 +4,7 @@
 - GORM
 - Go Gin
 - MySQL
+- GoDotEnv
 
 ## Installation
 ### GORM
@@ -15,5 +16,8 @@ go get -u gorm.io/driver/mysql
 ```powershell
 go get -u github.com/gin-gonic/gin
 ```
-
+### GoDotEnv
+```powershell
+go get github.com/joho/godotenv
+```
 
