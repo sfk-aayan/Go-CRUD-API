@@ -25,4 +25,5 @@ go get github.com/joho/godotenv
 1) Clone the repo.
 2) Install the needed dependencies from the Installation section.
 3) Give the credentials of your MySQL database in the .env file under `DB_URL`.
-4) Run main.go and enjoy!
+4) Run migrate.go to create a table called `posts` in your database.
+5) Run main.go and enjoy!
